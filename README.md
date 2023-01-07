@@ -5,7 +5,7 @@ My personal repository
 :email: cianasraj27@gmail.com
 
 
-:page_facing_up: CV  https://drive.google.com/file/d/1qkhInD-TVkWUw9lf59Gx3NHILhTTm0jf/view?usp=share_link 
+:star2: CV  https://drive.google.com/file/d/1qkhInD-TVkWUw9lf59Gx3NHILhTTm0jf/view?usp=share_link 
 
 
 :speech_balloon:  Hei , 
