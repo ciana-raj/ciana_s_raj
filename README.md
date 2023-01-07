@@ -1,9 +1,6 @@
 # ciana_s_raj
 My personal repository
-
-
 :email: cianasraj27@gmail.com
-
 
 :star2: CV  https://drive.google.com/file/d/1qkhInD-TVkWUw9lf59Gx3NHILhTTm0jf/view?usp=share_link 
 
